@@ -19,13 +19,10 @@ public:
                 k=k+1;
             }
         }
-        int l=0;
         for(int i=0;i<n/2;i++)
         {
-            nums[l]=pos[i];
-            l=l+1;
-            nums[l]=neg[i];
-            l=l+1;
+            nums[2*i]=pos[i];
+            nums[2*i+1]=neg[i];
         }
         return nums;
         
