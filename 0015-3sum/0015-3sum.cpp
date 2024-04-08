@@ -11,6 +11,15 @@ public:
             int k=n-1;
             while(j<k)
             {
+                if(nums[i]+nums[j]+nums[k]==0)
+                {
+                    vector <int>temp={nums[i],nums[j],nums[k]};
+                    ans.push_back(temp);
+                    j++;
+                    k--;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    while(j<k && nums[k]==nums[k+1]) k--;
+                }
                 int sum=nums[i]+nums[j]+nums[k];
                 if(sum<0)
                 {
@@ -19,16 +28,6 @@ public:
                 else if(sum>0)
                 {
                     k--;
-                }
-                else
-                {
-                    vector <int>temp={nums[i],nums[j],nums[k]};
-                    ans.push_back(temp);
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1]) j++;
-                    while(j<k && nums[k]==nums[k+1]) k--;
-                
                 }
             }
         }
