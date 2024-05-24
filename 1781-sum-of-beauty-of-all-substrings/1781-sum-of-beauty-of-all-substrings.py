@@ -6,12 +6,6 @@ class Solution(object):
         """     
         # if(len(s)<3):
         #     return 0
-        # sub=[]
-        # for i in range(len(s)):
-        #     for j in range(i,len(s)):
-        #         b=s[i:j+1]
-        #         if(len(b)>=3):
-        #             sub.append(b)
         # def beauty(string):
         #     maxi=0
         #     mini=len(s)
@@ -22,10 +16,15 @@ class Solution(object):
         #         if(c<mini):
         #             mini=c
         #     return maxi-mini
-        # res=0
-        # for i in sub:
-        #     res=res+beauty(i)
-        # return res
+        # sub=0
+        # for i in range(len(s)):
+        #     for j in range(i,len(s)):
+        #         b=beauty(s[i:j+1])
+        #         sub=sub+b
+        # # res=0
+        # # for i in sub:
+        # #     res=res+beauty(i)
+        # return sub
         ans=0
         for i in range(len(s)):
             freq=[0]*26
