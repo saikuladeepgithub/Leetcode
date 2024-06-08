@@ -13,8 +13,12 @@ public:
     ListNode * findMiddle(ListNode * head)
     {
         ListNode * middle,*slow,*fast;
+        if(head==NULL || head->next==NULL)
+        {
+            return head;
+        }
         slow=head;
-        fast=head->next;
+        fast=head->next->next;
         while(fast!=NULL && fast->next!=NULL)
         {
             slow=slow->next;
