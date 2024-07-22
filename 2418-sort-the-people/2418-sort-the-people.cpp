@@ -1,13 +1,17 @@
-class Solution(object):
-    def sortPeople(self, names, heights):
-        """
-        :type names: List[str]
-        :type heights: List[int]
-        :rtype: List[str]
-        """
-        res=[(heights[i],names[i]) for i in range(len(names))]
-        res.sort(reverse=True)
-        names=[]
-        for i in res:
-            names.append(i[1])
-        return names
+class Solution {
+public:
+    vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
+        unordered_map <int,string> mpp;
+        int n=heights.size();
+        for(int i=0;i<n;i++)
+        {
+            mpp[heights[i]]=names[i];
+        }
+        sort(heights.rbegin(),heights.rend());
+        for(int i=0;i<n;i++)
+        {
+            names[i]=mpp[heights[i]];
+        }
+        return names;
+    }
+};
