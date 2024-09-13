@@ -4,12 +4,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/0070-climbing-stairs) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saikuladeepgithub/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/saikuladeepgithub/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0213-house-robber-ii) |
 ## Memoization
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
