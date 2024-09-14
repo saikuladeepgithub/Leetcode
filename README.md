@@ -27,12 +27,14 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -45,5 +47,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
