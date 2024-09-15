@@ -27,29 +27,33 @@ public:
         // Tabulation part
 
         int n = matrix.size();
-        vector<vector<int>> dp(n,vector<int>(n,0));
+        //vector<vector<int>> dp(n,vector<int>(n,0));
+
+        vector<int> prev(n,0) ,cur(n,0); // space optimisation buddy
         for(int i=0 ; i<n ; i++)
         {
+            
             for(int j=0;j<n;j++)
             {
-                if(i==0) dp[0][j]=matrix[i][j];
+                if(i==0) cur[j]=matrix[i][j];
                 else
                 {
-                    int s=matrix[i][j]+dp[i-1][j];
+                    int s=matrix[i][j]+prev[j];
                     int lg=matrix[i][j];
-                    if(j-1>=0)lg=lg+dp[i-1][j-1];
+                    if(j-1>=0)lg=lg+prev[j-1];
                     else lg=INT_MAX;
                     int rg=matrix[i][j];
-                    if(j+1<n) rg=rg+dp[i-1][j+1];
+                    if(j+1<n) rg=rg+prev[j+1];
                     else rg=INT_MAX;
-                    dp[i][j]=min(s,min(lg,rg));
+                    cur[j]=min(s,min(lg,rg));
                 }
             }
+            prev=cur;
         }
         int res=INT_MAX;
         for(int i=0;i<n;i++)
         {
-            res=min(res,dp[n-1][i]);
+            res=min(res,prev[i]);
         }
         return res;
     }
