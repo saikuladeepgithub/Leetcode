@@ -25,7 +25,36 @@ public:
         }
 
         if(sum%2!=0)  return false;
-        vector<vector<int>> dp(n,vector<int>((sum/2)+1,-1));
-        return func(n-1,nums,sum/2,dp);
+        // vector<vector<int>> dp(n,vector<int>((sum/2)+1,-1));
+        // return func(n-1,nums,sum/2,dp);
+
+
+        // Tabulation part
+       
+        vector<vector<bool>> dp(n,vector<bool>(sum+1,false));
+
+        
+        for(int i=0;i<n;i++)
+        {
+            dp[i][0] = true;
+        }
+
+        dp[0][nums[0]] = true;
+        sum=sum/2;
+        for(int i=1;i<n;i++)
+        {
+            for(int target=1;target<=sum;target++)
+            {
+                bool take=false;
+
+                if(target-nums[i]>=0) take = dp[i-1][target-nums[i]];
+
+                bool nottake = dp[i-1][target];
+
+                dp[i][target] = (take | nottake);
+            }
+        }
+        return dp[n-1][sum];
+
     }
 };
