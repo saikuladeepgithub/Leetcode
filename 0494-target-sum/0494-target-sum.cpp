@@ -9,7 +9,6 @@ public:
             return 0;
         }
         int notpick = difference(i-1,sum,nums);
-
         int pick = 0;
 
         if(nums[i]<=sum)
@@ -30,7 +29,10 @@ public:
     // }
     int findTargetSumWays(vector<int>& nums, int target) {
         // return func(nums,target,nums.size()-1);
+        /*
 
+        it is similar to partitions with given difference ,as it is just adding plus to some numbers and minus to some numbers,finally we add then we get some output which is  differece of sum of two subsets
+        */
         int sum = 0;
         int n = nums.size();
         for(int i=0;i<n;i++)
@@ -38,7 +40,7 @@ public:
             sum=sum+nums[i];
         }
 
-        if((sum-target)%2!=0) return 0;
+       if((sum-target)%2!=0) return 0;
         int s2 = (sum-target)/2;
         return difference(n-1,s2,nums);
 
