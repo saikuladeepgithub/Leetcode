@@ -19,6 +19,7 @@
 | [0213-house-robber-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/saikuladeepgithub/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
@@ -40,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/saikuladeepgithub/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
+| [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
