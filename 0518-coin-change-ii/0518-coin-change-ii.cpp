@@ -21,8 +21,34 @@ public:
        
         int n = coins.size();
 
-        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
+        // vector<vector<int>> dp(n,vector<int>(amount+1,-1));
 
-        return func(n-1,amount,coins,dp);
+        // return func(n-1,amount,coins,dp);
+
+
+        // Tabulation part
+
+        vector<vector<long long>> dp(n,vector<long long>(amount+1,0));
+
+        for(int t=0;t<=amount;t++)
+        {
+            if(t%coins[0]==0) dp[0][t]=1;
+            else dp[0][t]=0;
+        }
+
+        for(int i=1;i<n;i++)
+        {
+            for(int t=0;t<=amount;t++)
+            {
+                long long nottake = dp[i-1][t];
+
+                long long take = 0;
+                if(coins[i]<=t)
+                    take=dp[i][t-coins[i]];
+
+                dp[i][t] = (int)(take+nottake) ;
+            }
+        }
+        return (int)dp[n-1][amount];
     }
 };
