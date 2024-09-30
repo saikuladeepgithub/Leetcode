@@ -49,6 +49,7 @@
 | [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/saikuladeepgithub/Leetcode/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
