@@ -11,6 +11,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -36,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/saikuladeepgithub/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/saikuladeepgithub/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -126,4 +128,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
