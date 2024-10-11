@@ -18,26 +18,27 @@ public:
         
         
         int n = nums.size();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return f(1,0,nums,dp);
+        // vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        // return f(1,0,nums,dp);
 
-        // vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp(n+2,vector<int>(n+2,0));
 
-        // // base case are already 0
+        // base case are already 0
 
-        // for(int ind = n-1;ind>=1;ind--)
-        // {
-        //     for(int prev = ind-1;prev>=1;prev--)
-        //     {
-        //         int len = 0 + f(ind+1,prev,nums,dp);
-        // if(dp[ind][prev]!=-1) return dp[ind][prev];
-        // if(prev==0 || nums[ind-1]>nums[prev-1])
-        // {
-        //     len = max(len,1 + f(ind+1,ind,nums,dp));
-        // }
+        for(int ind = n;ind>=1;ind--)
+        {
+            for(int prev=ind-1;prev>=0;prev--)
+            {
+                int len = 0 + dp[ind+1][prev];
+                if(prev==0 || nums[ind-1]>nums[prev-1])
+                {
+                    len = max(len,1 + dp[ind+1][ind]);
+                }
 
-        // return dp[ind][prev]=len;
-        //     }
-        // }
+                dp[ind][prev]=len;
+            }
+        }
+
+        return dp[1][0];
     }
 };
