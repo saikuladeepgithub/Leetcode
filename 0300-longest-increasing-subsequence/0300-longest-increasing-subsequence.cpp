@@ -49,28 +49,51 @@ public:
 
 
         // MY APPROAH\CH
+        // int n = nums.size();
+
+
+        // vector<int> dp(n,1);
+        // for(int i=0;i<n;i++)
+        // {
+        //     for(int j=i-1;j>=0;j--)
+        //     {
+        //         if(nums[j]<nums[i] && dp[i]<dp[j]+1)
+        //         {
+        //             dp[i] = dp[j] +1;
+        //         }
+        //     }
+        // }
+
+        // int buddy =0;
+        // for(int i=0;i<n;i++)
+        // {
+        //     buddy = max(buddy,dp[i]);
+        // }
+
+        // return buddy;
+
+
+        // binary search
+
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        int len = 1;
         int n = nums.size();
-
-
-        vector<int> dp(n,1);
-        for(int i=0;i<n;i++)
+        for(int i=1;i<n;i++)
         {
-            int buddy = 1;
-            for(int j=i-1;j>=0;j--)
+            if(nums[i]>temp.back())
             {
-                if(nums[j]<nums[i] && dp[i]<dp[j]+1)
-                {
-                    dp[i] = dp[j] +1;
-                }
+                temp.push_back(nums[i]);
+                len = len + 1;
+            }
+            else
+            {
+                int ind = lower_bound(temp.begin(),temp.end(),nums[i]) - temp.begin();
+                temp[ind] = nums[i];
             }
         }
 
-        int buddy =0;
-        for(int i=0;i<n;i++)
-        {
-            buddy = max(buddy,dp[i]);
-        }
 
-        return buddy;
+        return len;
     }
 };
