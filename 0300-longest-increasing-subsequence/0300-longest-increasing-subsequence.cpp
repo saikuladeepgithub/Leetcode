@@ -17,28 +17,60 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         
         
+        // int n = nums.size();
+        // // vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        // // return f(1,0,nums,dp);
+
+        // vector<vector<int>> dp(n+2,vector<int>(n+2,0));
+
+        // // base case are already 0
+
+        // for(int ind = n;ind>=1;ind--)
+        // {
+        //     for(int prev=ind-1;prev>=0;prev--)
+        //     {
+        //         int len = 0 + dp[ind+1][prev];
+        //         if(prev==0 || nums[ind-1]>nums[prev-1])
+        //         {
+        //             len = max(len,1 + dp[ind+1][ind]);
+        //         }
+
+        //         dp[ind][prev]=len;
+        //     }
+        // }
+
+        // return dp[1][0];
+
+
+
+
+
+
+
+
+        // MY APPROAH\CH
         int n = nums.size();
-        // vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        // return f(1,0,nums,dp);
 
-        vector<vector<int>> dp(n+2,vector<int>(n+2,0));
 
-        // base case are already 0
-
-        for(int ind = n;ind>=1;ind--)
+        vector<int> dp(n,1);
+        for(int i=0;i<n;i++)
         {
-            for(int prev=ind-1;prev>=0;prev--)
+            int buddy = 1;
+            for(int j=i-1;j>=0;j--)
             {
-                int len = 0 + dp[ind+1][prev];
-                if(prev==0 || nums[ind-1]>nums[prev-1])
+                if(nums[j]<nums[i] && dp[i]<dp[j]+1)
                 {
-                    len = max(len,1 + dp[ind+1][ind]);
+                    dp[i] = dp[j] +1;
                 }
-
-                dp[ind][prev]=len;
             }
         }
 
-        return dp[1][0];
+        int buddy =0;
+        for(int i=0;i<n;i++)
+        {
+            buddy = max(buddy,dp[i]);
+        }
+
+        return buddy;
     }
 };
