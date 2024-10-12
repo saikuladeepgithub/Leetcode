@@ -23,15 +23,17 @@ public:
             if(start[i]<=ends[j])
             {
                 count=count+1;
+                i++;
             }
             else
             {
                 j++;
+                count = count - 1;
             }
-            i++;
+            ans = max(ans,count);
             
         }
 
-        return count;
+        return ans;
     }
 };
