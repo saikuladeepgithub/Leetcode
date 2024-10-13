@@ -36,6 +36,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saikuladeepgithub/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -53,6 +54,7 @@
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -83,6 +85,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saikuladeepgithub/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -96,6 +99,7 @@
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/saikuladeepgithub/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -105,6 +109,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/saikuladeepgithub/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saikuladeepgithub/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Combinatorics
@@ -151,6 +156,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
+| [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1923-sentence-similarity-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saikuladeepgithub/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
