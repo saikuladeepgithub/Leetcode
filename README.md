@@ -83,6 +83,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0518-coin-change-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saikuladeepgithub/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -101,6 +102,7 @@
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/saikuladeepgithub/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saikuladeepgithub/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -167,11 +170,13 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saikuladeepgithub/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saikuladeepgithub/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -191,6 +196,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/saikuladeepgithub/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Indexed Tree
