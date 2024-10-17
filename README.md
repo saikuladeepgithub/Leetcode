@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/saikuladeepgithub/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0120-triangle) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/saikuladeepgithub/Leetcode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
