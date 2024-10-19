@@ -41,6 +41,7 @@
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
@@ -94,6 +95,7 @@
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -134,6 +136,7 @@
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
