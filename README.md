@@ -6,6 +6,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/saikuladeepgithub/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saikuladeepgithub/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/saikuladeepgithub/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
