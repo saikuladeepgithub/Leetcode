@@ -79,6 +79,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikuladeepgithub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0137-single-number-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/saikuladeepgithub/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
@@ -228,5 +229,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
