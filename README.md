@@ -91,6 +91,7 @@
 | [0368-largest-divisible-subset](https://github.com/saikuladeepgithub/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -115,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikuladeepgithub/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
@@ -156,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -211,6 +214,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Binary Search
