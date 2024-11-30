@@ -247,4 +247,16 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Graph
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
