@@ -114,6 +114,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/saikuladeepgithub/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2227-sum-of-subarray-ranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saikuladeepgithub/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/saikuladeepgithub/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -176,6 +177,7 @@
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saikuladeepgithub/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2227-sum-of-subarray-ranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/saikuladeepgithub/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [2227-sum-of-subarray-ranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
