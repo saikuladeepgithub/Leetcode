@@ -57,6 +57,7 @@
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/saikuladeepgithub/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/saikuladeepgithub/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/saikuladeepgithub/Leetcode/tree/master/0735-asteroid-collision) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saikuladeepgithub/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/saikuladeepgithub/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
