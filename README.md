@@ -47,6 +47,7 @@
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Memoization
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saikuladeepgithub/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/saikuladeepgithub/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -152,6 +154,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saikuladeepgithub/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -267,6 +270,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saikuladeepgithub/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -274,6 +278,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/saikuladeepgithub/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/saikuladeepgithub/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Indexed Tree
