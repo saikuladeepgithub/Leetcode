@@ -136,6 +136,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikuladeepgithub/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
@@ -202,6 +203,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/saikuladeepgithub/Leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Counting
@@ -333,4 +335,12 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/saikuladeepgithub/Leetcode/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
