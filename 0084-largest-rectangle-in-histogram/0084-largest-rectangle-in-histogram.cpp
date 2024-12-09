@@ -6,11 +6,11 @@ public:
         int res = 0;
         for(int i=0;i<n;i++)
         {
-            if(!st.empty() && arr[i]>=arr[st.top()])
-            {
-                st.push(i);
-                continue;
-            }
+            // if(!st.empty() && arr[i]>=arr[st.top()])
+            // {
+            //     st.push(i);
+            //     continue;
+            // }
             
             while(!st.empty() && arr[st.top()]>=arr[i])
             {
