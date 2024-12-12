@@ -132,6 +132,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saikuladeepgithub/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/saikuladeepgithub/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/saikuladeepgithub/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -303,6 +304,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/saikuladeepgithub/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/saikuladeepgithub/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/saikuladeepgithub/Leetcode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/saikuladeepgithub/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
 | ------- |
