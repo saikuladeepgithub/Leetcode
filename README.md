@@ -115,6 +115,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/saikuladeepgithub/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -222,6 +223,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/3427-special-array-ii) |
@@ -248,6 +250,7 @@
 | [0239-sliding-window-maximum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saikuladeepgithub/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/saikuladeepgithub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
