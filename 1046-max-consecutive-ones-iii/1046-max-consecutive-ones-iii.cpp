@@ -22,6 +22,7 @@ public:
                     if(nums[l]==0) zeros--;
                     l++;
                 }
+                maxlen = max(maxlen,r-l+1);
                 r++;
             }
         }
