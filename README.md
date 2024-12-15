@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/saikuladeepgithub/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/saikuladeepgithub/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/saikuladeepgithub/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/saikuladeepgithub/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
@@ -120,6 +121,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -154,6 +156,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -233,6 +236,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/saikuladeepgithub/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/3427-special-array-ii) |
@@ -262,6 +266,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2868-continuous-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
