@@ -60,6 +60,7 @@
 | [0072-edit-distance](https://github.com/saikuladeepgithub/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/saikuladeepgithub/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/saikuladeepgithub/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -145,6 +146,7 @@
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/saikuladeepgithub/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikuladeepgithub/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/saikuladeepgithub/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
