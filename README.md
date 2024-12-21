@@ -367,6 +367,7 @@
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saikuladeepgithub/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saikuladeepgithub/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
