@@ -11,19 +11,24 @@
  */
 class Solution {
 public:
-    int flag = 0;
+    // int flag = 0;
 
     int func(TreeNode * root, int l)
     {
         if(root==NULL) return l;
         int lh = func(root->left,l+1);
         int rh = func(root->right,l+1);
-        if(abs(lh-rh)>1) flag = 1;
+        if(lh==-1 || rh==-1) return -1;
+        if(abs(lh-rh)>1) 
+        {
+            //flag = 1;
+            return -1;
+        }
         return max(lh,rh);
     }
     bool isBalanced(TreeNode* root) {
         
-        int temp = func(root,0);
-        return flag==0;
+        
+        return func(root,0)!=-1;
     }
 };
