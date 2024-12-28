@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikuladeepgithub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/saikuladeepgithub/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -381,6 +382,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -442,6 +444,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -453,6 +456,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
