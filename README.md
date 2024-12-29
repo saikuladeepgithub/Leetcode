@@ -17,6 +17,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/saikuladeepgithub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/saikuladeepgithub/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -91,6 +92,7 @@
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/saikuladeepgithub/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/saikuladeepgithub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saikuladeepgithub/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -468,4 +470,8 @@
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saikuladeepgithub/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saikuladeepgithub/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
