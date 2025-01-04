@@ -445,6 +445,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/saikuladeepgithub/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/saikuladeepgithub/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
