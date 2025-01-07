@@ -75,6 +75,7 @@
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/saikuladeepgithub/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saikuladeepgithub/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -134,6 +135,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/saikuladeepgithub/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saikuladeepgithub/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saikuladeepgithub/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -424,6 +426,7 @@
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/saikuladeepgithub/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
