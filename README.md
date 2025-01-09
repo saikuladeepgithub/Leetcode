@@ -94,6 +94,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/saikuladeepgithub/Leetcode/tree/master/0051-n-queens) |
@@ -286,6 +287,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
@@ -319,6 +321,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/saikuladeepgithub/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
