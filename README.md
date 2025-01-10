@@ -64,6 +64,7 @@
 | [0072-edit-distance](https://github.com/saikuladeepgithub/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/saikuladeepgithub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/saikuladeepgithub/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/saikuladeepgithub/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -232,6 +233,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/saikuladeepgithub/Leetcode/tree/master/0322-coin-change) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/saikuladeepgithub/Leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -414,6 +417,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -485,6 +489,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -503,6 +508,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
