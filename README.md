@@ -258,6 +258,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saikuladeepgithub/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/saikuladeepgithub/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/saikuladeepgithub/Leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/saikuladeepgithub/Leetcode/tree/master/0937-online-stock-span) |
@@ -513,6 +515,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saikuladeepgithub/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -538,6 +541,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saikuladeepgithub/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/saikuladeepgithub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -570,6 +574,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -579,4 +584,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saikuladeepgithub/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saikuladeepgithub/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
