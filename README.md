@@ -137,6 +137,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -266,6 +267,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/saikuladeepgithub/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/saikuladeepgithub/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saikuladeepgithub/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saikuladeepgithub/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -374,6 +376,7 @@
 | [0937-online-stock-span](https://github.com/saikuladeepgithub/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/saikuladeepgithub/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/saikuladeepgithub/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saikuladeepgithub/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/saikuladeepgithub/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -520,6 +523,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saikuladeepgithub/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saikuladeepgithub/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -544,6 +548,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saikuladeepgithub/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Divide and Conquer
@@ -569,6 +574,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/saikuladeepgithub/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Brainteaser
 |  |
 | ------- |
