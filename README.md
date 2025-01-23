@@ -145,6 +145,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saikuladeepgithub/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -242,6 +243,7 @@
 | [0733-flood-fill](https://github.com/saikuladeepgithub/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saikuladeepgithub/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saikuladeepgithub/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/saikuladeepgithub/Leetcode/tree/master/2145-grid-game) |
@@ -265,6 +267,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/saikuladeepgithub/Leetcode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saikuladeepgithub/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saikuladeepgithub/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -308,6 +311,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikuladeepgithub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saikuladeepgithub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saikuladeepgithub/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -476,6 +480,7 @@
 | [0733-flood-fill](https://github.com/saikuladeepgithub/Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saikuladeepgithub/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -638,4 +643,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikuladeepgithub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
