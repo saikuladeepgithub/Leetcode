@@ -281,6 +281,7 @@
 | [0542-01-matrix](https://github.com/saikuladeepgithub/Leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/saikuladeepgithub/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/saikuladeepgithub/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saikuladeepgithub/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -499,6 +500,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/saikuladeepgithub/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/saikuladeepgithub/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saikuladeepgithub/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saikuladeepgithub/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -510,6 +512,7 @@
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/saikuladeepgithub/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saikuladeepgithub/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saikuladeepgithub/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/saikuladeepgithub/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -672,6 +675,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/saikuladeepgithub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saikuladeepgithub/Leetcode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/saikuladeepgithub/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/saikuladeepgithub/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/saikuladeepgithub/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saikuladeepgithub/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
