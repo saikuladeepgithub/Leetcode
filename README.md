@@ -161,6 +161,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saikuladeepgithub/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/saikuladeepgithub/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikuladeepgithub/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/saikuladeepgithub/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saikuladeepgithub/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saikuladeepgithub/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/saikuladeepgithub/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
