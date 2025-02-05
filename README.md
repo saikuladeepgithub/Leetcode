@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/saikuladeepgithub/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0045-jump-game-ii) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/saikuladeepgithub/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saikuladeepgithub/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0141-linked-list-cycle) |
