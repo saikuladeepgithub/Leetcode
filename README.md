@@ -80,6 +80,7 @@
 | [1170-shortest-common-supersequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/1304-longest-happy-string) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/saikuladeepgithub/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -383,6 +384,7 @@
 | [0567-permutation-in-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikuladeepgithub/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/saikuladeepgithub/Leetcode/tree/master/1129-longest-string-chain) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saikuladeepgithub/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikuladeepgithub/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/saikuladeepgithub/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -423,6 +425,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/saikuladeepgithub/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saikuladeepgithub/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/saikuladeepgithub/Leetcode/tree/master/1304-longest-happy-string) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/saikuladeepgithub/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/saikuladeepgithub/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saikuladeepgithub/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -494,6 +497,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saikuladeepgithub/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/saikuladeepgithub/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/saikuladeepgithub/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
