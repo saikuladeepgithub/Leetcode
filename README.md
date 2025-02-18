@@ -104,6 +104,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saikuladeepgithub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/saikuladeepgithub/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
@@ -461,6 +462,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/saikuladeepgithub/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -669,6 +671,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikuladeepgithub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saikuladeepgithub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/saikuladeepgithub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
