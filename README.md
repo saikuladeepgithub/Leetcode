@@ -116,6 +116,7 @@
 | [0053-maximum-subarray](https://github.com/saikuladeepgithub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saikuladeepgithub/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saikuladeepgithub/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikuladeepgithub/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/saikuladeepgithub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/saikuladeepgithub/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -267,6 +269,7 @@
 | [0037-sudoku-solver](https://github.com/saikuladeepgithub/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/saikuladeepgithub/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saikuladeepgithub/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saikuladeepgithub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/saikuladeepgithub/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saikuladeepgithub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saikuladeepgithub/Leetcode/tree/master/0200-number-of-islands) |
